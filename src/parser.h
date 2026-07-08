@@ -1,0 +1,17 @@
+#define ASSIGN                           1
+#define RARROW                           2
+#define ERRARROW                         3
+#define AND                              4
+#define OR                               5
+#define MODOLUS                          6
+#define PLUS                             7
+#define MINUS                            8
+#define STAR                             9
+#define SLASH                           10
+#define GT                              11
+#define GTE                             12
+#define LT                              13
+#define LTE                             14
+#define EQ                              15
+#define NEQ                             16
+#define COMMA                           17
