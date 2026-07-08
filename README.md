@@ -1,6 +1,8 @@
 MOCC
 ---
 
+Status: WIP
+
 Compiler for My Own C: ISO/IEC 9899:1999 (C99) dialect. 
 
 Install
